@@ -1,7 +1,11 @@
 1) What are three interesting facts about you?
-
+I'm from Hawaii, I'm in Bioengineering, and
+I've competed 3 times in world championships
+for outrigger canoe racing.
 
 2) What's your favorite song and movie?
-
+Song: Wahine Ilikea
+Movie: Life is Beautiful
 
 3) Why do you want to learn how to program?
+It's a very useful skillset for engineers
