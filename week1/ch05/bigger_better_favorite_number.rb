@@ -4,3 +4,6 @@
 
 
 ### Your Code Here ###
+puts "Hello, what\'s your favorite number?"
+number = gets.chomp
+puts "Hmmmm, may I suggest " + (number.to_i + 1).to_s + " instead?"
