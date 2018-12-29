@@ -5,3 +5,4 @@
 
 
 ### Your Code Here ###
+puts "UC Berkeley is " + (55067*3600).to_s + " seconds old"

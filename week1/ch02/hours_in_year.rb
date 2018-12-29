@@ -5,3 +5,4 @@
 
 
 ### Your Code Here ###
+puts "If it is a leap year, there are " + (366*24).to_s + " hours in a year. Otherwise there are " + (365*24).to_s + " hours in a year"
