@@ -2,10 +2,10 @@
 # Assume inputs are positive integers
 
 def sum_of_digits(n)
-  if ___________
+  if n == 0
     return 0
   else
-    return _______________________ # recursive call
+    return (n%10) + sum_of_digits(n/10) # recursive call
   end
 end
 

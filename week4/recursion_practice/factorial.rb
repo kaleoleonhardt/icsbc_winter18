@@ -2,9 +2,12 @@
 # See if you can figure out how to write the method!
 
 def factorial(n)
-
-  # YOUR CODE HERE #
-
+  value = 0
+  if n == 1
+    value = 1
+  else
+    value = n * factorial(n-1)
+  end
 end
 
 puts(factorial(3)) # expected: 6

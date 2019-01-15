@@ -3,12 +3,12 @@
 
 def contains_char(string, char)
   if string.empty?()  # base case
-    return _______
+    return false
   else
-    if ___________________
+    if string[0] == char
       return true
     else
-      return ________________________________ # recursive call
+      return contains_char(trim_char(string), char) # recursive call
     end
   end
 end
